@@ -1,0 +1,12 @@
+package com.wix;
+
+public interface TestCases {
+    String STRING_c1 = "aaabbc";
+    String STRING_c2 = "cbbaaa";
+    String STRING_c_b = "aaabcbc";
+    String STRING_a_b_c = "acaabcbcb";
+    String STRING_b = "aaabbaab";
+    String STRING_a_b = "aabbaabb";
+    String STRING_k1 = "vTaRBwDQxApMFHrSRzVWWCjWfIeuicVuOGIizbUsYMrTBRhzljbDsowijyNAOaKjjhijEUiDjdlyjmDFeCqpLEPjpqibXoHCwugENjNshcRrnHSbqthHiyjyrUxXKTgjBiVBSrdjxGRwbTCAonjVDPafqGIfuTSzwDqPjzgBaYvrtHGFeCiDJYYxpItEVJeoDvnwoVNHMwQbDdFdJIxiKdCtDnrKOzJscBrQZRKgBvgwRUNoaFJKZyOJtihOsIqmpjBWDsoHdjmIAbIDgLXciyqDZYteRDejJGRrTUBVTvhZiqWItiWkMCdtQcjlFCfbHHTzBZODwuzKodpDzOydqPufGUAdhNnzUpbjYMWDWDmcsNnvnZqjgpKOGghbtFKLyFizKIXCPuSdEGmuhhKPObfmGlwfIBHEVaiYsjGMSGqyWvlhXzxQtlclJatIADTDymhnRtFtbuXfsqShzaMuDqycMCoqjeZlHNCsbWGDxvtoTUidGpflrOuilyXvwLwXRcqBReegDzojoSHlAzIaYCJxoynsYRoCEfBnwxnfQRzpKgutIGKPsTagQenakrKVENZAQwsCmdJKPENmIeuUDnIijfyddCNfwgznYDKvKXVdUBBpMvSmwrEKSdSZJjzhjVOpBCVDUvtZFZziyNRsOlCRyzdTxiZTdwThwwyzFTyuZogdRnsFbYPfFvCPBdixBsEWziUsphWvIKnjYTqLrUIrOJiQXwkjYJJQEYUpnRdOYDHzKUhIManFIStlonDsRJeTrgYrmlOoGYHnmjBwpuByoirdnrfnpgXxiyFnEjobSRtSSMtDKGAdzqFWzffYRQqcXmudWzKXyjRHVVgWYFURPXjVzgSoUXNPmBgnnrNhGBdyFTQleZgYsYnXuuIEdXcoSazSfGsntSLtfEKmeciRlZoNEoFnLXNTXcMhhsNtRuQjeDxTKHBqVjfJqwhgdeUqoWKLUGmzPGomzomwdyZNDnigTfLJVYeSnPfm";
+    String STRING_k2 = "Kz^m$aMpJdiqDw]W&b]c{OJG%-,B',#Pwn'CUZ6-zQZ|?mR4FQLwXi?E5Xrz-pv#CA%R8;7$+O6+?xK4&m2&jj`w1=j)Ox<I\\GbU*Lv)B7QO`I<TUNuX3^JatAj$[>J4i<zdi'joiv<2qr[`h[99hBvDdHIDL|+`LJ'6NARpj)vXNQ<5s>:B<Xm=a*6:+yCLma<K`QQ^ALXcVP'n%6$cjk./HER%a$5vVZ.NPXM?4AT=6Y_Ylc6o]gQy*_F7`+{,>1Li5?GucvaF;%/;I,(1IlrHa_n^-aEa'Y-2pVlTb(N7LS,'g.I_I:2;Uo9vH_SF1\\[&Cq*FL6{/XleToi<l5=E4/z3w76BO?i>q]53*=^2r5+ZuY>?QLaxdyw9y[(1^s'Ju5)ZC(vZ8;#'ChJpV.N8RvpEaR#Z%Rmv1gfYy+U8b>`Th){%;eqIvpH;cBZhOv$yZ>tPcB%JXY1UbeT-2'IMZ5H..w=L=zI-b>COziwJ;oyMS.V<:nMQd(]VMcGxp%JY(1/R1zPpgoyqzdYJ=*lC$Mwvu/phjPtjJ{jOg%;VJYR&^DjDC;\\BGtQ]YBls=d8%|Tw^Bd&h3Yna3Yc4i#bCf$V$F*]$\\xrXcQ)F$s*BRETy9O@y1td4jc)0bm8<'du'3yV%$%[K?:Za,M<Yg^-&O@u5c<H*eMxcO'++X5SAJMJq9ZL(,GqCK74lg$c58;<QR&%e28<MmD5IE*abjBevcNjp|AF7x#>uISBIa#/om'P5Whjw_Xa-jy9B>RX*{X,:;w_n:1]Z_)67g?r3*<UNqSjeM6x{5_I?,4R,$wAo;VX3@8nzRsyV?]d@V,4QX?e{-fw5;D_f>N]02M+CRvQzN|{{^i9&f3aE/n5^t\\:qI1g\\m{`X_b6Y_Zx-]%I;ejg/DuxLxa=ip-SlwiMk#O2BE.VuQ,u335+nBEL;Q2<s0*w|v*a6XnKhp7_i]RR-T_cr0Y4otR%R7=ZEvgeFH7B7jMR(Wv^1cooNu.Xe{";
+}
